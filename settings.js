@@ -1,6 +1,6 @@
 /*
-› Create By @RIY
-› Base Ori @DikaArdnt
+› Create By @Milky
+› Base Ori @MilkyStore
 › Kalau mau tambahin fitur di index.js
 › Edit text menu di file language › help.js
 */
@@ -22,7 +22,7 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6288214772063','6288214772063','6288214772063'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6288214772063'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
 global.premium = ['6288214772063'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
 global.ownernomer = '6288214772063' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
@@ -34,15 +34,15 @@ global.footer = 'MilkyStore' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/storebymilky?igshid=YmMyMTA2M2Y='
-global.mygc = 'https://chat.whatsapp.com/CHbHU8JMRIlFQaGczdwlbH'
-global.myweb = 'myurls.co/storebymilky'
-global.email = 'azzamsul7@gmail.com'
+global.ig = 'https://instagram.com/riychdwayne'
+global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
+global.myweb = 'https://s.id/chikabot'
+global.email = 'riychdwaynee@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© Bot-Milky' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'MilkyStore' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
